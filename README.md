@@ -15,4 +15,3 @@ Dependencies
     >Import an account provided by ganache.
   4.Run the Front End Application
       $ npm run dev. Visit the URL in your  browser
-
